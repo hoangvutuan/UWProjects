@@ -26,7 +26,7 @@ public class FlattenNestedArray  {
         //output:
         //[1,2,3,4,5]
 	//test1
-
+	//test 1 with hotfix
 
         NestedInteger num1 = new NestedInteger(1);
          
